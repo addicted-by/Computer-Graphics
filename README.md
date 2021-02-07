@@ -1,7 +1,7 @@
 # Computer-Graphics
----
- 5th semester 3rd course education
 
+ 5th semester 3rd course education
+---
 
 ## Reports
 ---
